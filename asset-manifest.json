@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vmwebsite/static/css/main.159f1f13.css",
+    "main.js": "/vmwebsite/static/js/main.47519890.js",
+    "static/media/msft.jpg": "/vmwebsite/static/media/msft.aa0fe093c8ca23d9ed23.jpg",
+    "static/media/Geraldine.ttf": "/vmwebsite/static/media/Geraldine.07b14676730419ed2f36.ttf",
+    "static/media/sherlocked.jpg": "/vmwebsite/static/media/sherlocked.1d4fb565c7684b993442.jpg",
+    "static/media/QuickKiss.ttf": "/vmwebsite/static/media/QuickKiss.fabc1e370177a5e9da22.ttf",
+    "static/media/background.jpg": "/vmwebsite/static/media/background.e7c0dda9c2c411839aee.jpg",
+    "index.html": "/vmwebsite/index.html",
+    "main.159f1f13.css.map": "/vmwebsite/static/css/main.159f1f13.css.map",
+    "main.47519890.js.map": "/vmwebsite/static/js/main.47519890.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.159f1f13.css",
+    "static/js/main.47519890.js"
+  ]
+}
