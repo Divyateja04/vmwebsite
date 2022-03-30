@@ -1,42 +1,201 @@
+/* Fonts */
 @font-face {
   font-family: 'Geraldine';
   src: local('Geraldine'), url("./Fonts/Geraldine.ttf") format('truetype');
 }
+
 @font-face {
   font-family: 'QuickKiss';
   src: local('QuickKiss'), url("./Fonts/QuickKiss.ttf") format('truetype');
 }
 
+.quickkiss {
+  font-family: "QuickKiss";
+}
+
+.geraldine {
+  font-family: "Geraldine";
+}
+
+/* App */
 .App {
   text-align: center;
+  background: #ff00cc;
+  background: -webkit-linear-gradient(to right, #ff00cc, #333399); 
+  background: linear-gradient(to right, #ff00cc, #333399);
+  /* background: url(https://static.vecteezy.com/system/resources/previews/000/196/231/original/vector-blue-topographic-contour-lines-background.jpg);
+  background-size: cover; */
 }
 
-.word1 {
-  font-family: "QuickKiss";
-}
-
-.word2 {
-  font-family: "QuickKiss";
-}
-
-.particles {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  opacity:1;
-  background: #ff00cc;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #8e22e7, #ff02cc);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #8f06ff, #ff0000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
-.App-header { 
-  min-height: calc(100vh); /* - 75px*/
+/* Header */
+.home-header { 
+  min-height: calc(90vh);
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   font-size: calc(10px + 2vmin);
   color: white;
   position: relative;
+  background-image: url("Images/background.jpg");
+  background-size: cover;
+}
+
+.hrWidth {
+  width: 30%;
+}
+
+.content {
+  width: 100%;
+  padding: 2em;
+  background: #ff00cc;
+  background: -webkit-linear-gradient(to right, #ff00cc, #333399); 
+  background: linear-gradient(to right, #ff00cc, #333399);
+  /* background: url(https://static.vecteezy.com/system/resources/previews/000/196/231/original/vector-blue-topographic-contour-lines-background.jpg);
+  background-size: cover; */
+  justify-content: center !important;
+}
+
+.headline1 {
+  /* padding: 3em; */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 2em;
+}
+
+@media screen and (max-width: 750px) {
+  .headline1 {
+    flex-direction: column;
+  }
+  .home-image{
+    width: 100% !important;
+  }
+  .headline-desc{
+    width: 100% !important;
+  }
+}
+
+.headline-desc {
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  text-align: center;
+  font-size: 1.2em;
+  padding: 1em;
+  width: 100%;
+}
+
+h1 {
+  font-size: large;
+}
+
+.home-image {
+  width: 500px;
+  height: 100%;
+}
+
+.more {
+  font-size: 2em;
+  color: white;
+  text-decoration: none;
+}
+
+.more:link, .more:visited {
+  text-decoration: none;
+}
+
+.more:active, .more:hover {
+  text-decoration: underline;
+}
+
+.header {
+  width: 100%;
+  height: 75px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* .pages {
+  margin-top: 60px
+} */
+
+.header-title {
+  justify-content: flex-start;
+  font-size: 1.5em;
+  margin-left: 0.5em;
+  color: white;
+  text-decoration: none;
+}
+
+.header-links {
+  display: flex;
+  flex-direction: row;
+}
+
+.h-link {
+  color: white;
+  margin-right: 1.5em;
+  text-decoration: none;
+  z-index: 1000;
+}
+
+.h-reg-link {
+  color: white;
+  margin-right: 1.5em;
+  text-decoration: none;
+  z-index: 1000;
+}
+
+.h-reg-link:hover {
+  background-color: #96ccff;
+}
+
+.h-link:hover {
+  color:cornflowerblue;
+}
+
+/* .sponsors {
+  background: url(https://static.vecteezy.com/system/resources/previews/000/196/231/original/vector-blue-topographic-contour-lines-background.jpg);
+} */
+
+.height-100 {
+  height: 100vh;
+}
+
+.footer {
+  background-color: darkslategray;
+  color: white;
+  height: 4em;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.custom {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+  font-size: larger;
+  color: aliceblue;
 }
