@@ -1,18 +1,44 @@
 {
   "files": {
-    "main.css": "/vmwebsite/static/css/main.159f1f13.css",
-    "main.js": "/vmwebsite/static/js/main.a26424db.js",
-    "static/media/msft.jpg": "/vmwebsite/static/media/msft.aa0fe093c8ca23d9ed23.jpg",
+    "main.css": "/vmwebsite/static/css/main.9c5d9ef0.css",
+    "main.js": "/vmwebsite/static/js/main.e9ebf812.js",
+    "static/media/Nehal.jpg": "/vmwebsite/static/media/Nehal.8e6c5eb01bfb6d37297b.jpg",
+    "static/media/Sanjith.jpg": "/vmwebsite/static/media/Sanjith.8ee3f6a683e813e67bfa.jpg",
+    "static/media/Udupa.jpg": "/vmwebsite/static/media/Udupa.ec4844b2c958e5e6b747.jpg",
+    "static/media/Vivek.jpg": "/vmwebsite/static/media/Vivek.d81f72bf06119d6d37cc.jpg",
+    "static/media/Dhruv.jpg": "/vmwebsite/static/media/Dhruv.a9b3267c76c44a75228b.jpg",
+    "static/media/Sayyam.jpg": "/vmwebsite/static/media/Sayyam.3c2500377dcd0d60a442.jpg",
+    "static/media/Shreya.jpg": "/vmwebsite/static/media/Shreya.b662192471fe1e12fbde.jpg",
+    "static/media/Vedant.jpg": "/vmwebsite/static/media/Vedant.5cf95fc0b4011ded3374.jpg",
+    "static/media/Atharva.jpeg": "/vmwebsite/static/media/Atharva.7013bb675d62ac4c7ed6.jpeg",
+    "static/media/Srikant.jpeg": "/vmwebsite/static/media/Srikant.8103aebc9f14aaca27c1.jpeg",
+    "static/media/ARG.png": "/vmwebsite/static/media/ARG.881f27fcca303c5f5e03.png",
+    "static/media/superposition.png": "/vmwebsite/static/media/superposition.102f9116fc1e882f14e3.png",
+    "static/media/bamboozled.png": "/vmwebsite/static/media/bamboozled.6fd6ea226b35fc1054cf.png",
+    "static/media/sherlocked.png": "/vmwebsite/static/media/sherlocked.e50021b95ee5746ba7fc.png",
+    "static/media/symphony.png": "/vmwebsite/static/media/symphony.58e2b083793d49c5d696.png",
     "static/media/Geraldine.ttf": "/vmwebsite/static/media/Geraldine.07b14676730419ed2f36.ttf",
-    "static/media/sherlocked.jpg": "/vmwebsite/static/media/sherlocked.1d4fb565c7684b993442.jpg",
+    "static/media/slam.jpg": "/vmwebsite/static/media/slam.4f956c971a0eef59dfa2.jpg",
+    "static/media/shipwrecked.jpg": "/vmwebsite/static/media/shipwrecked.246d531bb68e0359978b.jpg",
+    "static/media/devil.png": "/vmwebsite/static/media/devil.c6414948751de10b1be2.png",
     "static/media/QuickKiss.ttf": "/vmwebsite/static/media/QuickKiss.fabc1e370177a5e9da22.ttf",
+    "static/media/JAM.png": "/vmwebsite/static/media/JAM.d4f53baa06b2e3e9cd7d.png",
+    "static/media/dialectic.jpg": "/vmwebsite/static/media/dialectic.7fe2b936c2e970c95771.jpg",
+    "static/media/trolls.jpg": "/vmwebsite/static/media/trolls.c4ef97fcd5cc9c409384.jpg",
+    "static/media/lit.png": "/vmwebsite/static/media/lit.f23ebf32317de1ddf918.png",
+    "static/media/whatif.png": "/vmwebsite/static/media/whatif.02340a8eb0f33c646d00.png",
     "static/media/background.jpg": "/vmwebsite/static/media/background.e7c0dda9c2c411839aee.jpg",
+    "static/media/Divya.jpeg": "/vmwebsite/static/media/Divya.cbd76e8375990545c5fe.jpeg",
+    "static/media/babbling.jpg": "/vmwebsite/static/media/babbling.e697979f1ed3ce137444.jpg",
+    "static/media/picture.jpg": "/vmwebsite/static/media/picture.ac06a2299a43df92d702.jpg",
+    "static/media/bollywood.jpg": "/vmwebsite/static/media/bollywood.c1780feab71a44ca2b26.jpg",
+    "static/media/dayinlife.jpg": "/vmwebsite/static/media/dayinlife.8526b79f8ef4ce9ad8ea.jpg",
     "index.html": "/vmwebsite/index.html",
-    "main.159f1f13.css.map": "/vmwebsite/static/css/main.159f1f13.css.map",
-    "main.a26424db.js.map": "/vmwebsite/static/js/main.a26424db.js.map"
+    "main.9c5d9ef0.css.map": "/vmwebsite/static/css/main.9c5d9ef0.css.map",
+    "main.e9ebf812.js.map": "/vmwebsite/static/js/main.e9ebf812.js.map"
   },
   "entrypoints": [
-    "static/css/main.159f1f13.css",
-    "static/js/main.a26424db.js"
+    "static/css/main.9c5d9ef0.css",
+    "static/js/main.e9ebf812.js"
   ]
 }
