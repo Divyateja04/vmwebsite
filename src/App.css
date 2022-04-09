@@ -199,3 +199,7 @@ h1 {
   font-size: larger;
   color: aliceblue;
 }
+
+.timeBox {
+  height: 175px;
+}

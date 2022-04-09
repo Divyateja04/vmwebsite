@@ -5,7 +5,7 @@ import 'react-vertical-timeline-component/style.min.css';
 export default function Schedule() {
   return (
     <div>
-      <VerticalTimeline>
+      {/* <VerticalTimeline>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
@@ -96,7 +96,11 @@ export default function Schedule() {
           iconStyle={{ background: 'rgb(16, 204, 82)', color: '#fff' }}
           
         />
-      </VerticalTimeline>
+      </VerticalTimeline> */}
+
+        <div className="pa4 custom">
+            Watch this space! Coming very soon :)
+        </div>
     </div>
   )
 }
