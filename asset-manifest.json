@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vmwebsite/static/css/main.9c5d9ef0.css",
-    "main.js": "/vmwebsite/static/js/main.e9ebf812.js",
+    "main.js": "/vmwebsite/static/js/main.3273439e.js",
     "static/media/Nehal.jpg": "/vmwebsite/static/media/Nehal.8e6c5eb01bfb6d37297b.jpg",
     "static/media/Sanjith.jpg": "/vmwebsite/static/media/Sanjith.8ee3f6a683e813e67bfa.jpg",
     "static/media/Udupa.jpg": "/vmwebsite/static/media/Udupa.ec4844b2c958e5e6b747.jpg",
@@ -26,19 +26,19 @@
     "static/media/dialectic.jpg": "/vmwebsite/static/media/dialectic.7fe2b936c2e970c95771.jpg",
     "static/media/trolls.jpg": "/vmwebsite/static/media/trolls.c4ef97fcd5cc9c409384.jpg",
     "static/media/lit.png": "/vmwebsite/static/media/lit.f23ebf32317de1ddf918.png",
+    "static/media/Divya.jpeg": "/vmwebsite/static/media/Divya.4f9d1947ce97491aa86d.jpeg",
     "static/media/whatif.png": "/vmwebsite/static/media/whatif.02340a8eb0f33c646d00.png",
     "static/media/background.jpg": "/vmwebsite/static/media/background.e7c0dda9c2c411839aee.jpg",
-    "static/media/Divya.jpeg": "/vmwebsite/static/media/Divya.cbd76e8375990545c5fe.jpeg",
     "static/media/babbling.jpg": "/vmwebsite/static/media/babbling.e697979f1ed3ce137444.jpg",
     "static/media/picture.jpg": "/vmwebsite/static/media/picture.ac06a2299a43df92d702.jpg",
     "static/media/bollywood.jpg": "/vmwebsite/static/media/bollywood.c1780feab71a44ca2b26.jpg",
     "static/media/dayinlife.jpg": "/vmwebsite/static/media/dayinlife.8526b79f8ef4ce9ad8ea.jpg",
     "index.html": "/vmwebsite/index.html",
     "main.9c5d9ef0.css.map": "/vmwebsite/static/css/main.9c5d9ef0.css.map",
-    "main.e9ebf812.js.map": "/vmwebsite/static/js/main.e9ebf812.js.map"
+    "main.3273439e.js.map": "/vmwebsite/static/js/main.3273439e.js.map"
   },
   "entrypoints": [
     "static/css/main.9c5d9ef0.css",
-    "static/js/main.e9ebf812.js"
+    "static/js/main.3273439e.js"
   ]
 }
