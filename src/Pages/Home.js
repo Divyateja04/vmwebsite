@@ -10,7 +10,7 @@ import "animate.css/animate.css";
 
 const calculateTimeLeft = () => {
     let year = new Date().getFullYear();
-    let difference = +new Date(`04/22/${year}`) - +new Date(); //MM/DD/YYYY
+    let difference = +new Date(`06/10/${year}`) - +new Date(); //MM/DD/YYYY
   
     let timeLeft = null;
   
